@@ -32,7 +32,7 @@ Measure proyect status
 
 Initiate Branch
 
-0) Third Branch
+0) Second Branch
 1) git branch name
 2) git push origin name
 
